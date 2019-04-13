@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "753047462438",
+    "firebase_url": "https://jdafotochat-38486.firebaseio.com",
+    "project_id": "jdafotochat-38486",
+    "storage_bucket": "jdafotochat-38486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753047462438:android:4ea819408d1530ff",
+        "android_client_info": {
+          "package_name": "com.example.jan.jdafotochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753047462438-ud1eol5ul618g01tmoprjchhhl5gf9vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jan.jdafotochat",
+            "certificate_hash": "42d87e9b26f50b9d8e5844614d34163d54fd2d3e"
+          }
+        },
+        {
+          "client_id": "753047462438-uogb146lta1qliq8oemg4q3i8jjcss6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWNRnC_aJoRQpPO1yG8lpHRYBbQemcx6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753047462438-uogb146lta1qliq8oemg4q3i8jjcss6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
